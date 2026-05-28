@@ -60,6 +60,10 @@ The final classification found:
 
 The results suggest that *man* was used more often pragmatically than referentially in this 100-sentence sample. The most common use was as a discourse marker, where *man* helped manage emphasis, stance, or conversational rhythm.
 
+## Limitations
+
+This is an exploratory analysis based on a small sample of 100 sentences. The findings should not be treated as representative of the entire London English Corpus. Some sentences were short or fragmentary, meaning the function of man was sometimes difficult to classify confidently without wider conversational context.
+
 ## Repository structure
 
 ```text
@@ -69,4 +73,3 @@ mle-man-analysis/
 ├── data/
 │   ├── man-sentences.csv
 │   └── cleaned_man_sentences.csv
-
