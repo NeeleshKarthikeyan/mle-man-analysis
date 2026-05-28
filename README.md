@@ -69,9 +69,4 @@ mle-man-analysis/
 ├── data/
 │   ├── man-sentences.csv
 │   └── cleaned_man_sentences.csv
-│
-├── report/
-│   └── Investigating_the_use_of_man_in_the_London_English_Corpus.pdf
-│
-└── prompts/
-    └── gemini_prompt.txt
+
